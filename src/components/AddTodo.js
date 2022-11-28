@@ -4,7 +4,9 @@ const AddTodo = ({ dispatch }) => {
 
 
     return (
-        <></>
+        <>
+        <Todo />
+        </>
     )
 }
 
